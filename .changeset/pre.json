@@ -159,7 +159,10 @@
   },
   "changesets": [
     "easy-day-js-security-remediation",
+    "fiery-news-take",
     "fix-server-getstudio-guard",
-    "green-birds-knock"
+    "fix-sso-callback-prefer-studio",
+    "green-birds-knock",
+    "nine-nights-dream"
   ]
 }

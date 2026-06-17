@@ -1,5 +1,16 @@
 # @mastra/playground-ui
 
+## 34.0.1-alpha.1
+
+### Patch Changes
+
+- Fixed badges so they keep their intrinsic width in data list cells. ([#18090](https://github.com/mastra-ai/mastra/pull/18090))
+
+- Updated dependencies [[`ab975d4`](https://github.com/mastra-ai/mastra/commit/ab975d4dd9488752f05bda7afa03166d207e3e2a)]:
+  - @mastra/core@1.43.1-alpha.1
+  - @mastra/client-js@1.25.1-alpha.1
+  - @mastra/react@1.0.3-alpha.1
+
 ## 34.0.1-alpha.0
 
 ### Patch Changes

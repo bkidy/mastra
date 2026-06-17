@@ -1,5 +1,11 @@
 # @mastra/core
 
+## 1.43.1-alpha.1
+
+### Patch Changes
+
+- Fixed stream error display showing [object Object] instead of the actual error message. Errors from subscribed thread streams (e.g. context length exceeded) now properly extract the message from deserialized error objects using getErrorFromUnknown. ([#18087](https://github.com/mastra-ai/mastra/pull/18087))
+
 ## 1.43.1-alpha.0
 
 ### Patch Changes

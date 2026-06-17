@@ -1,5 +1,14 @@
 # @mastra/server
 
+## 1.43.1-alpha.1
+
+### Patch Changes
+
+- Fix SSO callback routing for dual auth configurations. OAuth redirects from identity providers now correctly route to studio auth instead of failing with "sso_not_configured" error. ([#18054](https://github.com/mastra-ai/mastra/pull/18054))
+
+- Updated dependencies [[`ab975d4`](https://github.com/mastra-ai/mastra/commit/ab975d4dd9488752f05bda7afa03166d207e3e2a)]:
+  - @mastra/core@1.43.1-alpha.1
+
 ## 1.43.1-alpha.0
 
 ### Patch Changes
